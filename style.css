@@ -124,6 +124,7 @@ a{
 }
 .col-4 img{
     width: 100%;
+    border-radius: 5px;
 }
 
 .title{

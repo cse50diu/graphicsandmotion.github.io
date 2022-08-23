@@ -40,3 +40,8 @@ h2{
     font-size: 25px;
     font-family: 'Franklin Gothic Medium';
 }
+
+.form-container input{
+    border: none;
+
+}

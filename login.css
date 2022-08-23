@@ -45,3 +45,7 @@ h2{
     padding: 10px;
 
 }
+button{
+    background-color: gray;
+    display: inline;
+}
